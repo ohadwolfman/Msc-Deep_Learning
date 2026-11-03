@@ -1,0 +1,5 @@
+{
+    "editor.suggest.selectionMode": "whenTriggerCharacter",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
